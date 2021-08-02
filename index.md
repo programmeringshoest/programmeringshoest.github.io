@@ -5,7 +5,7 @@ Programmeringshøst er både en fællesaktivitet for alle på ITU – inklusive 
 
 Sammenfatning:
 
-* opgaver hver morgen kl. 6 på [itu.kattis.com/courses/ITUPH/ITUPH2021](https://itu.kattis.com/courses/ITUPH/ITUPH2021)
+* opgaver hver morgen kl. 6 på [itu.kattis.com/courses/hoest/hoest21](https://itu.kattis.com/courses/hoest/hoest21)
 * diskutér løsninger 24 timer senere på [Høstens MS Teams-kanal](https://teams.microsoft.com/l/team/19%3a7030638545734611921c2eabdae804dc%40thread.tacv2/conversations?groupId=ab9f00ab-a679-4b61-bbbb-ab15351f60f9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb)
 
 
@@ -18,7 +18,7 @@ Hvis du allerede har en brugerprofil på Kattis, bruger du bare den.
 Log på, navigér til ovenstående adresse, og vælg »join contest«. 
 
 Opgaverne kan du finde på hver morgen kl. 6 på
-* [itu.kattis.com/courses/ITUPH/ITUPH2021](https://itu.kattis.com/courses/ITUPH/ITUPH2021)
+* [itu.kattis.com/courses/hoest/hoest21](https://itu.kattis.com/courses/hoest/hoest21)
 
 Du kan løse lige så mange eller få opgaver, som du har lyst til. Du kan også frit vælge programmeringssprog.
 
