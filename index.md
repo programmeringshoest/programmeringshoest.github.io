@@ -6,7 +6,7 @@ Programmeringshøst er både en fællesaktivitet for alle på ITU – inklusive 
 Sammenfatning:
 
 * opgaver hver morgen kl. 6 på [itu.kattis.com/courses/hoest/hoest21](https://itu.kattis.com/courses/hoest/hoest21)
-* diskutér løsninger 24 timer senere på [Høstens MS Teams-kanal](https://teams.microsoft.com/l/team/19%3a7030638545734611921c2eabdae804dc%40thread.tacv2/conversations?groupId=ab9f00ab-a679-4b61-bbbb-ab15351f60f9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb)
+* diskutér løsninger 24 timer senere på [MS Teams-kanalen »Langgården«](https://teams.microsoft.com/l/channel/19%3aSE2f54mbOrjS_-W_CbRNcr82Bs3rXOrHdcTqA0jADGM1%40thread.tacv2/General?groupId=3e7a9d20-a4de-4d0e-81f5-88b111686b0f&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb)
 
 
 ## … som fællesaktivitet
@@ -25,7 +25,7 @@ Du kan løse lige så mange eller få opgaver, som du har lyst til. Du kan også
 Efter 24 timer bliver opgaven genstand for offentlig samtale på
 
 * Programmeringshøstens 
-[MS Teams-kanal](https://teams.microsoft.com/l/team/19%3a7030638545734611921c2eabdae804dc%40thread.tacv2/conversations?groupId=ab9f00ab-a679-4b61-bbbb-ab15351f60f9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb)
+[MS Teams-kanal »Langgården«](https://teams.microsoft.com/l/channel/19%3aSE2f54mbOrjS_-W_CbRNcr82Bs3rXOrHdcTqA0jADGM1%40thread.tacv2/General?groupId=3e7a9d20-a4de-4d0e-81f5-88b111686b0f&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb)
 
 Her kan du
 * stille spørgsmål til opgave, programmeringssprog og teknisk infrastruktur.
