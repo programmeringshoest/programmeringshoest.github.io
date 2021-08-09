@@ -5,8 +5,9 @@ Programmeringshøst er både en fællesaktivitet for alle på ITU – inklusive 
 
 Sammenfatning:
 
-* opgaver hver morgen kl. 6 på [itu.kattis.com/courses/hoest/hoest21](https://itu.kattis.com/courses/hoest/hoest21)
-* diskutér løsninger 24 timer senere på [MS Teams-kanalen »Langgården«](https://teams.microsoft.com/l/channel/19%3aSE2f54mbOrjS_-W_CbRNcr82Bs3rXOrHdcTqA0jADGM1%40thread.tacv2/General?groupId=3e7a9d20-a4de-4d0e-81f5-88b111686b0f&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb)
+* én opgave per hverdag, fra 7. september til 1. oktober 2021.
+* opgaver hver morgen kl. 6.00 på [itu.kattis.com/courses/hoest/hoest21](https://itu.kattis.com/courses/hoest/hoest21).
+* diskutér løsninger 24 timer senere på [MS Teams-kanalen »Langgården«](https://teams.microsoft.com/l/channel/19%3aSE2f54mbOrjS_-W_CbRNcr82Bs3rXOrHdcTqA0jADGM1%40thread.tacv2/General?groupId=3e7a9d20-a4de-4d0e-81f5-88b111686b0f&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb).
 
 
 ## … som fællesaktivitet
@@ -15,10 +16,10 @@ Alle på ITU er velkommen til at deltage i samtlige aktiviteter i forbindelse me
 Det kræver en konto på Kattis, som du fx kan oprette via 
 [itu.kattis.com](https://itu.kattis.com).
 Hvis du allerede har en brugerprofil på Kattis, bruger du bare den.
-Log på, navigér til ovenstående adresse, og vælg »join contest«. 
 
 Opgaverne kan du finde på hver morgen kl. 6 på
 * [itu.kattis.com/courses/hoest/hoest21](https://itu.kattis.com/courses/hoest/hoest21)
+Log på, navigér til ovenstående adresse, og vælg »join contest«. 
 
 Du kan løse lige så mange eller få opgaver, som du har lyst til. Du kan også frit vælge programmeringssprog.
 
@@ -41,19 +42,19 @@ Kanalen er åben hele tiden; og der er plads til at stille uddybende spørgsmål
 Hvis du følger _Grundlæggende Programmering_ i efterårssemesteret 2021, udgør deltagelse i Programmeringshøsten en _obligatorisk aktivitet_.
 Reglerne for deltagelse er da:
 
-* du skal aflevere under din  ITU-profil på Kattis. 
+* du _skal_ aflevere under din  ITU-profil på Kattis. 
 (Dvs. at din profil på `itu.kattis.com` skal bruge din ITU-epostadresse som primæradresse.)
-* du skal bruge dig eget navn
+* du _skal_ bruge dig eget navn
 * men du _må_ gerne være anonym (vælg Settings under din profil i højre øvre hjørne af `itu.kattis.com`, vælg **Anonymous mode** – hide me from other users.
-* du skal aflevere i Java 
-* du skal opnå mere end 0 point for hver(!) af de tyve opgaver inden Programmeringshøst er færdig (se kursus hjemmesiden på LearnIT ).
+* du _skal_ aflevere i Java 
+* du _skal_ opnå mere end 0 point for hver(!) af de tyve opgaver inden Programmeringshøst er færdig (se kursus hjemmesiden på LearnIT ).
 
 Formålet med Programmeringshøst er at stærkt forbedre _individuelle_ programmeringsfærdigheder for samtlige studerende, hvilket udover fortrolighed med teknisk infrastruktur og programmeringssproget især omfatter personlige rutiner for problemløsning og frustrationshåndtering.
-Der er dog daglig hjælp at hente hver dag klokken 16 på 
+Der er dog daglig hjælp at hente hver dag kl. 16 på 
 
 * Study Lab (adresse kommer),
 
-hvor der sidder en ældre studerende, som allerede har lavet (i hvert fald den nemme del) af dagens opgave i Java. 
+hvor der sidder en ældre studerende, som allerede har lavet dagens opgave i Java. 
 
 ## Akademisk redelighed
 
@@ -65,15 +66,15 @@ For at være helt konkret betyder det:
 
 Skriv fx kommentarer i programkilden:
 ```
-Skrevet af Nikolaj Grundtvig; i læsegruppe med Johanne Luise Heiberg.
+Af Nikolaj Grundtvig; i læsegruppe med Johanne Luise Heiberg.
 ```
 
 ```
-Skrevet af Nikolaj Grundtvig. Tak til Johanne Luise Heiberg for hjælp med at hitte ud af String-biblioteket.
+Af Nikolaj Grundtvig. Tak til Johanne Luise Heiberg for hjælp med at hitte ud af String-biblioteket.
 ```
 
 ```
-Skrevet af Nikolaj Grundtvig. Testgruppe 1 har jeg gjort selv. Idéen til testgruppe 2 her stort set Johanne Luise Heibergs.
+Af Nikolaj Grundtvig. Testgruppe 1 har jeg gjort selv. Idéen til testgruppe 2 her stort set Johanne Luise Heibergs.
 ```
 
 Én enkelt sætning er ofte nok. Hvis du ikke skriver noget, gør du implicit krav på, at det 
@@ -84,16 +85,15 @@ afleverede materiale er dit eget.
 Programmeringshøst er et nyt tiltag på ITU, hvis primære formål er at markant forbedre de individuelle grundlæggende programmeringsfærdigheder for nye programmører.
 Den primære målgrupper er altså førsteårsstuderende uden forkundskaber i programmering.
 
-Hver opgave kan give mellem 1 og 100 point, og de er konstrueret således, at det er _nemt_ at opnå mindst 1 point.
+Hver opgave kan give mellem 1 og 100 point, og de er konstrueret således, at det er nemt at opnå mindst 1 point.
 Ingen af disse nemme dele bruger andet end grundlæggende programmeringsfærdigheder.
-
 Ofte er _hele_ opgaven nem, og nye programmører har en reel chance for at få 100 point med bare nogle få linjers program.
 
 Nogle opgaver er dog betydeligt vanskeligere i den hårde ende. 
-Nogle er hundesvære og ligger langt uden for, hvad en ny programmør forventes at kunne håndtere.
+Nogle opgaver er hundesvære og ligger langt uden for, hvad en ny programmør forventes at kunne håndtere.
 Det er helt bevidst: færdigheden _problemløsning_ indeholder evnen (og den psykologiske villighed og rutine) til at identificere aspekter, som er for vanskelige.
 
-_Alle_ studerende forventes at kunne høste point hver dag.
+_Alle_ studerende forventes altså at kunne høste point hver dag.
 _Ingen_ studerende forventes at kunne høste samtlige 2000 point.
 
 
@@ -111,6 +111,6 @@ Dels skal man opnå mesterskab i det pågældende programmeringssprog, dels skal
 Det er psykologisk vanskeligt at finde sine egne fejl, men uden tvivl en af de mest værdifulde generelle færdigheder, som man opøver som programmør.
 
 Desværre tager det tid, ikke mindst i starten.
-En opgave, som »egentlig« bør kunne klares på 5 minutter, kan altså uden videre tage 10 gange så meget tid bare til fejlfinding.
+En opgave, som »egentlig« bør kunne klares på fem minutter, kan altså uden videre tage ti gange så meget tid bare til fejlfinding.
 Det er _meningen_.
 Vær sød mod dig selv.
