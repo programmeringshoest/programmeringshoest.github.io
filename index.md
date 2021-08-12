@@ -5,7 +5,7 @@ Programmeringshøst er både en fællesaktivitet for alle på ITU – inklusive 
 
 Sammenfatning:
 
-* én opgave per hverdag, fra mandag, d. 6. september til fredag, d. 1. oktober 2021.
+* én opgave per hverdag, fra mandag, d. 13. september til fredag, d. 8. oktober 2021.
 * opgaver hver morgen kl. 6.00 på [itu.kattis.com/courses/hoest/hoest21](https://itu.kattis.com/courses/hoest/hoest21).
 * diskutér løsninger 24 timer senere på [MS Teams-kanalen »Langgården«](https://teams.microsoft.com/l/channel/19%3aSE2f54mbOrjS_-W_CbRNcr82Bs3rXOrHdcTqA0jADGM1%40thread.tacv2/General?groupId=3e7a9d20-a4de-4d0e-81f5-88b111686b0f&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb).
 
