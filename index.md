@@ -17,7 +17,7 @@ Det kræver en konto på Kattis, som du fx kan oprette via
 [itu.kattis.com](https://itu.kattis.com).
 Hvis du allerede har en brugerprofil på Kattis, bruger du bare den.
 
-Opgaverne kan du finde på hver morgen kl. 6 på
+Opgaverne kan du finde på hver morgen kl. 6.00 på
 * [itu.kattis.com/courses/hoest/hoest21](https://itu.kattis.com/courses/hoest/hoest21)
 Log på, navigér til ovenstående adresse, og vælg »join contest«. 
 
