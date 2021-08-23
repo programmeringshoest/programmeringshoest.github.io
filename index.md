@@ -17,8 +17,14 @@ Det kræver en konto på Kattis, som du fx kan oprette via
 [itu.kattis.com](https://itu.kattis.com).
 Hvis du allerede har en brugerprofil på Kattis, bruger du bare den.
 
-Opgaverne kan du finde på hver morgen kl. 6.00 på
-* [itu.kattis.com/courses/hoest/hoest21](https://itu.kattis.com/courses/hoest/hoest21)
+For at se, om eller at alting virker, er der en opvarmingssession på
+
+* [itu.kattis.com/courses/hoest/hoest21, “Opvarmning”](https://itu.kattis.com/sessions/jjkkv8)
+
+Når høsten er i gang, finder du dagens opgave hver morgen kl. 6.00 på
+
+* [itu.kattis.com/courses/hoest/hoest21, “Høst 2021”](https://itu.kattis.com/sessions/a5kum2)
+
 Log på, navigér til ovenstående adresse, og vælg »join contest«. 
 
 Du kan løse lige så mange eller få opgaver, som du har lyst til. Du kan også frit vælge programmeringssprog.
@@ -35,7 +41,7 @@ Her kan du
 * offenliggøre din færdige løsning, hvad enten det er for at prale med din særlig elegante løsning i noget obskurt funktionelt sprog eller for at bede om forbedringer til dit første Javapropgram.
 * dele billeder af din af dagens opgave inspirerede hæklekunst eller hægte til din egen Twitch-strøm, hvor du filmer dig selv i færd med at løse opgaven i Prolog. Eller hvad du nu kan finde på.
 
-Kanalen er åben hele tiden; og der er plads til at stille uddybende spørgsmål om uklarheder i opgaveformuleringen. Men de første 24 timer bør der ikke deles _løsninger_ – dette er af hensyn til opgavens obligatoriske natur for førsteårsstuderende, som bør have lov til at vende skråen først.
+Kanalen er sådan set åben hele tiden; og du er altid velkommen til at stille uddybende spørgsmål om uklarheder i opgaveformuleringen. Men de første 24 timer bør der ikke deles _løsninger_ – dette er af hensyn til opgavens obligatoriske natur for førsteårsstuderende, som bør have lov til at vende skråen først.
 
 ## … som obligatorisk opgave
 
@@ -45,20 +51,21 @@ Reglerne for deltagelse er da:
 * du _skal_ aflevere under din  ITU-profil på Kattis. 
 (Dvs. at din profil på `itu.kattis.com` skal bruge din ITU-epostadresse som primæradresse.)
 * du _skal_ bruge dig eget navn
-* men du _må_ gerne være anonym (vælg Settings under din profil i højre øvre hjørne af `itu.kattis.com`, vælg **Anonymous mode** – hide me from other users.
+* men du _må_ gerne være anonym: vælg Settings under din profil i højre øvre hjørne af `itu.kattis.com`, vælg **Anonymous mode** – hide me from other users.
 * du _skal_ aflevere i Java 
-* du _skal_ opnå mere end 0 point for hver(!) af de tyve opgaver inden Programmeringshøst er færdig (se kursus hjemmesiden på LearnIT ).
+* du _skal_ opnå mere end 0 point for hver(!) af de tyve opgaver, inden Programmeringshøst er færdig (se kursussiden på LearnIT).
 
-Formålet med Programmeringshøst er at stærkt forbedre _individuelle_ programmeringsfærdigheder for samtlige studerende, hvilket udover fortrolighed med teknisk infrastruktur og programmeringssproget især omfatter personlige rutiner for problemløsning og frustrationshåndtering.
+Formålet med Programmeringshøst er at stærkt forbedre de _individuelle_ programmeringsfærdigheder for samtlige studerende, hvilket udover fortrolighed med teknisk infrastruktur og programmeringssproget især omfatter personlige rutiner for problemløsning og frustrationshåndtering.
+Det er derfor meningen, at du forsøger at løse opgaven selv.
 Der er dog daglig hjælp at hente hver dag kl. 16 på 
 
-* Study Lab (adresse kommer),
+* _Study Lab_ (adresse kommer),
 
 hvor der sidder en ældre studerende, som allerede har lavet dagens opgave i Java. 
 
 ## Akademisk redelighed
 
-Programmeringshøst holdes under gængse regler for akademisk adfærd og redelighed, især *hjælpsomhed* og *ærlighed*.
+Programmeringshøst holdes under de gængse regler for akademisk adfærd og redelighed, især *hjælpsomhed* og *ærlighed*.
 
 For at være helt konkret betyder det:
 * Det er *yderst velset* at spørge om hjælp, at hjælpe hinanden og at samarbejde i grupper, samt at stille uddybende spørgsmål og forklare efter bedste evne på tværs af kompetence- og erfaringsskel.
@@ -82,15 +89,13 @@ afleverede materiale er dit eget.
 
 ## Niveau
 
-Programmeringshøst er et nyt tiltag på ITU, hvis primære formål er at markant forbedre de individuelle grundlæggende programmeringsfærdigheder for nye programmører.
-Den primære målgrupper er altså førsteårsstuderende uden forkundskaber i programmering.
+Programmeringshøst er et nyt tiltag på ITU, hvis primære målgruppe er førsteårsstuderende uden forkundskaber i programmering.
 
-Hver opgave kan give mellem 1 og 100 point, og de er konstrueret således, at det er nemt at opnå mindst 1 point.
-Ingen af disse nemme dele bruger andet end grundlæggende programmeringsfærdigheder.
+Hver opgave kan give mellem 1 og 100 point, og de er konstrueret således, at det er ganske nemt at opnå mindst 1 point, uden at bruge andet end grundlæggende programmeringsfærdigheder.
 Ofte er _hele_ opgaven nem, og nye programmører har en reel chance for at få 100 point med bare nogle få linjers program.
 
-Nogle opgaver er dog betydeligt vanskeligere i den hårde ende. 
-Nogle opgaver er hundesvære og ligger langt uden for, hvad en ny programmør forventes at kunne håndtere.
+Nogle opgaver indeholder dog dele, som er betydeligt vanskeligere. 
+Visse opgaver er ærligt talt hundesvære og ligger langt uden for, hvad en ny programmør forventes at kunne håndtere.
 Det er helt bevidst: færdigheden _problemløsning_ indeholder evnen (og den psykologiske villighed og rutine) til at identificere aspekter, som er for vanskelige.
 
 _Alle_ studerende forventes altså at kunne høste point hver dag.
@@ -105,7 +110,7 @@ Hvis du her meget disciplineret eller konkurrencepræget, kan du altså stå op 
 Der er en fælles pointtavle, så du kan konkurrere mod dig selv eller andre.
 
 Men vær opmærksom på, at programmering er vanskelig, fordi programmører laver fejl.
-Det er typisk detaljer, som virker »åndssvage« i bakspejlet (omdøbte variabler, tåbelige indeksfejl, misvisende indrykninger, tanketorske, misforståede biblioteksfunktioner, osv.).
+Det er typisk detaljer, som virker »åndssvage« i bakspejlet (omdøbte variable, tåbelige indeksfejl, misvisende indrykninger, tanketorske, misforståede biblioteksfunktioner, osv.).
 Men disse fejl er _uundgåelige_, og en stor del af formålet med Programmeringshøsten er at optræne individuelle rutiner til netop fejlfinding.
 Dels skal man opnå mesterskab i det pågældende programmeringssprog, dels skal man opnå rutine og villighed til at sætte spørgsmålstegn ved det, man selv lige har skrevet.
 Det er psykologisk vanskeligt at finde sine egne fejl, men uden tvivl en af de mest værdifulde generelle færdigheder, som man opøver som programmør.
