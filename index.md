@@ -59,7 +59,7 @@ Formålet med Programmeringshøst er at stærkt forbedre de _individuelle_ progr
 Det er derfor meningen, at du forsøger at løse opgaven selv.
 Der er dog hjælp at hente på
 
-* _Study Lab_ SWU førsteår [https://studylab.itu.dk/schedule/](https://studylab.itu.dk/schedule/),
+* _Study Lab_ SWU for første år [https://studylab.itu.dk/schedule/](https://studylab.itu.dk/schedule/),
 
 hvor der sidder en ældre studerende, som allerede har lavet dagens opgave i Java. 
 
