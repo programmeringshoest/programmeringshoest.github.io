@@ -57,9 +57,9 @@ Reglerne for deltagelse er da:
 
 Formålet med Programmeringshøst er at stærkt forbedre de _individuelle_ programmeringsfærdigheder for samtlige studerende, hvilket udover fortrolighed med teknisk infrastruktur og programmeringssproget især omfatter personlige rutiner for problemløsning og frustrationshåndtering.
 Det er derfor meningen, at du forsøger at løse opgaven selv.
-Der er dog daglig hjælp at hente hver dag kl. 16 på 
+Der er dog hjælp at hente på
 
-* _Study Lab_ (adresse kommer),
+* _Study Lab_ SWU førsteår [https://studylab.itu.dk/schedule/](https://studylab.itu.dk/schedule/),
 
 hvor der sidder en ældre studerende, som allerede har lavet dagens opgave i Java. 
 
