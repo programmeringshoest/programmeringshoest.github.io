@@ -25,7 +25,8 @@ Når høsten er i gang, finder du dagens opgave hver morgen kl. 6.00 på
 
 * [itu.kattis.com/courses/hoest/hoest21, “Høst 2021”](https://itu.kattis.com/sessions/a5kum2)
 
-Log på, navigér til ovenstående adresse, og vælg »join contest«. 
+Log på, navigér til ovenstående adresse, og vælg »join contest«.
+(Der er ingen grund til at vælge »I am a student taking this course and I want to register for it on Kattis«.) 
 
 Du kan løse lige så mange eller få opgaver, som du har lyst til. Du kan også frit vælge programmeringssprog.
 
@@ -50,6 +51,7 @@ Reglerne for deltagelse er da:
 
 * du _skal_ aflevere under din  ITU-profil på Kattis. 
 (Dvs. at din profil på `itu.kattis.com` skal bruge din ITU-epostadresse som primæradresse.)
+* du _skal_ vælge »I am a student taking this course and I want to register for it on Kattis« øverst på [itu.kattis.com/courses/hoest/hoest21](https://itu.kattis.com/courses/hoest/hoest21).
 * du _skal_ bruge dig eget navn
 * men du _må_ gerne være anonym: vælg Settings under din profil i højre øvre hjørne af `itu.kattis.com`, vælg **Anonymous mode** – hide me from other users.
 * du _skal_ aflevere i Java 
